@@ -5,10 +5,12 @@ A change to test Git.
 
 # Mark down is great!
 
-...An indented paragraph
-
 1. List item 1
 2. List item 2
+
+A paragraph.
+
+Another paragraph.
 
 Some in-line code:
 ```
